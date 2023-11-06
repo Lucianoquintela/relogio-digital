@@ -45,6 +45,7 @@ button{
     justify-content:center;
     align-items:center;
     transition:ease-in-out 0.2s;
+    cursor:pointer;
 }
 
 button:hover{
